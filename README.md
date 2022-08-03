@@ -7,6 +7,7 @@ Simple template to deploy an IBM Cloud Kubernetes cluster
 2) Download [IBM Cloud Provider Plugin](https://github.com/IBM-Bluemix/terraform-provider-ibm/releases). Unzip it and keep the binary in path in the same directory where you placed Terraform binary in previous step. You can also build the binary yourself. Please look into [documentation](https://github.com/IBM-Bluemix/terraform-provider-ibm/blob/master/README.md).
 
 # To run this project locally execute the following steps:
+test
 
 - Clone this project.
 - You can override default values that are in your variables.tf file.
